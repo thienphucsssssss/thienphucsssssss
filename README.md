@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/02/49/75/92/360_F_249759222_Z5gbC1Yq3IKY2DSsbN9zuPyO7gtjop1D.jpg" width="100%">
+  <img src="https://opensource.com/sites/default/files/lead-images/github-universe.jpg" width="100%">
 </p>
 
 ## Hi there 👋
