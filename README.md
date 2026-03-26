@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif" width="60%">
 </p>
 
-## Hi there 👋
-
-<!--
-**thienphucsssssss/thienphucsssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lilarie) 
 
