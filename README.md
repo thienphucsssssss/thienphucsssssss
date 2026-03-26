@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thienphucsssssss/test/blob/cea5068dcb0e56f191aeb9190c5023215f819e7a/christmas-in-minecraft_800.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif" width="100%">
 </p>
 
 ## Hi there 👋
