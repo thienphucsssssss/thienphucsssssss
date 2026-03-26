@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif" width="80%">
+  <img src="https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif" width="60%">
 </p>
 
 ## Hi there 👋
