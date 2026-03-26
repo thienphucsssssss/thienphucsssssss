@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif" width="100%">
 </p>
 
 ## Hi there 👋
