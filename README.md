@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif" width="40%">
 </p>
 
-## 🌐 Socials:
+## 🔗 Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/339564312219746306)
 
 # 💻 Tech Stack:
