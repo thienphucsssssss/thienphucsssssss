@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[[https://raw.githubusercontent.com/khrome/ansi-gif/HEAD/Samples/nyan.gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXJ0emR3dDhtb3kwcmV1OHQxYmNnOG54eDRzZHZ4ZG4wOHBsamMxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uWnjYBwQPdo3u/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVub280dWtqaWx3ZnhiYm02bjIyYmgwb2ZleHpjbzZoMDd5eGEzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif)" width="40%">
+  <img src="https://github.com/user-attachments/assets/d1e32ea0-c762-44d0-8b92-c35ba4b9b5d9" width="40%">
 </p>
+![banner](https://github.com/user-attachments/assets/d1e32ea0-c762-44d0-8b92-c35ba4b9b5d9)
 
 # 🔗 Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/339564312219746306)
