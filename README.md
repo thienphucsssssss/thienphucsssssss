@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1e32ea0-c762-44d0-8b92-c35ba4b9b5d9" width="40%">
 </p>
-![banner](https://github.com/user-attachments/assets/d1e32ea0-c762-44d0-8b92-c35ba4b9b5d9)
+
 
 # 🔗 Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/339564312219746306)
