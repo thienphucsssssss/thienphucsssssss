@@ -22,7 +22,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Luôn khám phá công nghệ mới và best practices
 - 💬 Liên hệ mình qua Discord nhé!
 
 ---
