@@ -22,8 +22,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Đam mê phát triển backend, web
-- 🔭 Hiện đang làm việc với **TypeScript**, **Node.js**, **Supabase** và **Neon**
 - 🌱 Luôn khám phá công nghệ mới và best practices
 - 💬 Liên hệ mình qua Discord nhé!
 
